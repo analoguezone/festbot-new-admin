@@ -15,4 +15,4 @@ const WebpackDevServer = require('webpack-dev-server'),
 	},
 	server = new WebpackDevServer(compiler, devServer);
 
-server.listen(3001);
+server.listen(3005);
